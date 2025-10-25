@@ -10,6 +10,8 @@ Debes generar una función para crear el paso de Unificación para comparar un p
 - Paso 3: Resolución SLD 
 Debe recibir una consulta, realizar la búsqueda, utilizar la Unificación y regresar una respuesta.
 
+Equipo: Sistema Experto Automotriz
+
 Hechos utilizados:
 - Las fallas se manifiestan a través de Síntomas (ej., ruidos, olores, luces de advertencia).
 - Ciertas Luces en el Tablero (ej., Check Engine) indican la activación de códigos de falla específicos.
@@ -20,3 +22,4 @@ Reglas utilizadas:
 
 - Si el vehículo no avanza al acelerar, entonces el embrague está patinando o hay falla en la caja de transmisión. 
 - Si se escuchan ruidos metálicos al cambiar de marcha, entonces puede haber desgaste en los engranajes o falta de lubricante.
+
